@@ -1,4 +1,4 @@
-## Hi! I'm Chaya, a fullstack developer. Check out my personal site @ [chayagreisman.com](https://chayagreisman.com/) 👩‍💻  
+### Hi! I'm Chaya, a fullstack developer. Check out my personal site @ [chayagreisman.com](https://chayagreisman.com/) 👩‍💻  
 
 [![Website](https://img.shields.io/website?label=chayagreisman.com&style=for-the-badge&url=https%3A%2F%2Fchayagreisman.com)](https://chayagreisman.com/)
 
@@ -6,3 +6,9 @@
 
 <!--use below to pin repos on profile page-->
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChayaGreisman&repo=gelt-frontend)](https://github.com/ChayaGreisman/gelt-frontend)-->
+### Let's Connect:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chayagreisman.com/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chayagreisman/)
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@chayamgreisman)
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZL13mtv8x-0IdOZ18J5T3w)
