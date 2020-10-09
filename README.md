@@ -1,4 +1,6 @@
-### Hi! I'm Chaya, a fullstack developer. Check out my personal site @ [<img  alt="codeSTACKr.com" src="/website.png" />](https://chayagreisman.com/)
+### Hi! I'm Chaya, a fullstack developer. 
+
+[<img  alt="codeSTACKr.com" src="/website.png" />](https://chayagreisman.com/)
 
 [![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
 
