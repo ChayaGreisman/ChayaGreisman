@@ -5,6 +5,8 @@
 
 [![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
 
+[![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&bg_color=#8b8c8b)](https://github.com/ChayaGreisman/github-readme-stats)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaGreisman)](https://github.com/ChayaGreisman/github-readme-stats)-->
 
 <!--use below to pin repos on profile page-->
