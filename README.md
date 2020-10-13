@@ -5,7 +5,7 @@
 
 [![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaGreisman&layout=compact)](https://github.com/ChayaGreisman/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaGreisman)](https://github.com/ChayaGreisman/github-readme-stats)-->
 
 <!--use below to pin repos on profile page-->
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChayaGreisman&repo=gelt-frontend)](https://github.com/ChayaGreisman/gelt-frontend)-->
