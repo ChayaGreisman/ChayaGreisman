@@ -8,7 +8,9 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaGreisman)](https://github.com/ChayaGreisman/github-readme-stats)-->
 
 <!--use below to pin repos on profile page-->
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChayaGreisman&repo=gelt-frontend)](https://github.com/ChayaGreisman/gelt-frontend)-->
+<!--## Pinned:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChayaGreisman&repo=gelt-frontend&theme=gotham)](https://github.com/ChayaGreisman/gelt-frontend)-->
+
 ### Let's Connect:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chayagreisman.com/)
