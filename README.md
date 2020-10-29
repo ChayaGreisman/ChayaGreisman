@@ -7,8 +7,9 @@
 
 ### Some of my recent projects: 
 
-[<img  align="left" width="200px" alt="gelt" src="/gelt.gif" />](https://www.youtube.com/watch?v=ahcW76NAfiY)
-[<img  align="left" width="200px" alt="HomeHue" src="/homeHue.gif" />](https://www.youtube.com/watch?v=_l3wUuti28s) 
+[<img  align="left" width="250px" alt="gelt" src="/gelt.gif" />](https://www.youtube.com/watch?v=ahcW76NAfiY)
+[<img  align="left" width="250px" alt="HomeHue" src="/homeHue.gif" />](https://www.youtube.com/watch?v=_l3wUuti28s) 
+[<img  align="left" width="250px" alt="cubicle" src="/cubicle.gif" />](https://www.youtube.com/watch?v=OaI9uW1RYtY) 
 
 
 
