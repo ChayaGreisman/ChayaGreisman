@@ -3,13 +3,14 @@
 
 [<img  alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)
 
+[![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
+
 ### Some of my recent projects: 
 
 [<img  align="left" width="200px" alt="gelt" src="/gelt.gif" />](https://www.youtube.com/watch?v=ahcW76NAfiY)
 [<img  align="left" width="200px" alt="HomeHue" src="/homeHue.gif" />](https://www.youtube.com/watch?v=_l3wUuti28s) 
 
 
-[![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaGreisman)](https://github.com/ChayaGreisman/github-readme-stats)-->
 
