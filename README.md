@@ -23,9 +23,9 @@
    
 ### Let's Connect:
 
-[<img align="left" alt="chayagreisman.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chayagreisman.com/)
-[<img align="left" alt="chayagreisman | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chayagreisman/)
-[<img align="left" alt="chayagreisman | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@chayamgreisman)
-[<img align="left" alt="chayagreisman | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZL13mtv8x-0IdOZ18J5T3w)
+[<img align="left" alt="chayagreisman.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chayagreisman.com/)
+[<img align="left" alt="chayagreisman | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chayagreisman/)
+[<img align="left" alt="chayagreisman | Medium" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@chayamgreisman)
+[<img align="left" alt="chayagreisman | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZL13mtv8x-0IdOZ18J5T3w)
 
 
