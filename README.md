@@ -1,4 +1,4 @@
-## Hi! I'm Chaya, a fullstack developer. 
+## Hi! I'm **Chaya**, a fullstack developer. 
 
 
 [<img  alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)
