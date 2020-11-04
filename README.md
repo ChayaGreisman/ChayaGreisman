@@ -1,6 +1,6 @@
 ## Hi! I'm **Chaya**, a full stack engineer. 
 
-[<img width='250px' alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)<br/><br/>
+[<img width='200px' alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)<br/><br/>
 
 ## Some of my recent projects: 
 
