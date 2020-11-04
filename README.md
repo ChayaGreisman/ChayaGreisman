@@ -11,6 +11,7 @@
 [<img   width="275px" alt="HomeHue" src="/homeHue.gif" />](https://www.youtube.com/watch?v=_l3wUuti28s) 
 [<img   width="275px" alt="cubicle" src="/cubicle.gif" />](https://www.youtube.com/watch?v=OaI9uW1RYtY) 
 
+### GitHub Stats: 
 [![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaGreisman)](https://github.com/ChayaGreisman/github-readme-stats)-->
