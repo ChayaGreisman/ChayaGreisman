@@ -1,5 +1,6 @@
 ## Hi! I'm **Chaya**, a full stack engineer. 
 
+CHECK IT OUT ⤵  
 [<img width='200px' alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)<br/><br/>
 
 ## Some of my recent projects: 
