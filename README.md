@@ -1,6 +1,6 @@
-## Hi! I'm **Chaya**, a full stack engineer. 
-
-CHECK IT OUT ⤵  
+##  Hi! I'm **Chaya**, a full stack engineer [<img width='50px' alt="chayagreisman.com" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/woman-technologist-medium-light-skin-tone_1f469-1f3fc-200d-1f4bb.png" />](https://chayagreisman.com/) 
+ 
+CHECK IT OUT <img  width="25px" alt="garrow" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/252/down-right-arrow_2198.png" /><br/>
 [<img width='200px' alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)<br/><br/>
 
 ## Some of my recent projects: 
@@ -8,6 +8,8 @@ CHECK IT OUT ⤵
 [<img   width="275px" alt="gelt" src="/gelt.gif" />](https://www.youtube.com/watch?v=ahcW76NAfiY)
 [<img   width="275px" alt="HomeHue" src="/homeHue.gif" />](https://www.youtube.com/watch?v=_l3wUuti28s) 
 [<img   width="275px" alt="cubicle" src="/cubicle.gif" />](https://www.youtube.com/watch?v=OaI9uW1RYtY) <br/><br/>
+             |
+             
 
 ### GitHub Stats: 
 [![Chaya's github stats](https://github-readme-stats.vercel.app/api?username=ChayaGreisman&show_icons=true&theme=gotham)](https://github.com/ChayaGreisman/github-readme-stats)
