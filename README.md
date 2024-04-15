@@ -6,12 +6,13 @@
 
 <br/>
 
+<!-- 
 ## Some of my recent projects: 
 
 [<img   width="275px" alt="gelt" src="/gelt.gif" />](https://www.youtube.com/watch?v=ahcW76NAfiY)
 [<img   width="275px" alt="HomeHue" src="/homeHue.gif" />](https://www.youtube.com/watch?v=_l3wUuti28s) 
 [<img   width="275px" alt="cubicle" src="/cubicle.gif" />](https://www.youtube.com/watch?v=OaI9uW1RYtY) <br/><br/>
-            
+-->          
              
 
 <!--### GitHub Stats: -->
