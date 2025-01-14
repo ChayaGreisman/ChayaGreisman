@@ -1,8 +1,9 @@
-##  Hi! I'm **Chaya**, a full stack engineer 👩‍💻
+<!-- ##  Hi! I'm **Chaya**, a full stack engineer 👩‍💻 -->
 
 <br/>
 
-[<img width='200px' alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/)
+[<img align='left' width='200px' alt="chayagreisman.com" src="/website.png" />](https://chayagreisman.com/) [<img alt="chayagreisman | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chayagreisman/)
+
 
 <br/>
 
@@ -24,11 +25,11 @@
 <!--## Pinned:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChayaGreisman&repo=gelt-frontend&theme=gotham)](https://github.com/ChayaGreisman/gelt-frontend)-->
  
-## Let's Connect:
+<!-- ## Let's Connect: -->
 
-<!--[<img align="left" alt="chayagreisman.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chayagreisman.com/) -->
+<!--[<img alt="chayagreisman.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chayagreisman.com/) -->
 
-[<img align="left" alt="chayagreisman | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chayagreisman/)
+<!-- [<img align="left" alt="chayagreisman | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chayagreisman/) -->
 <!--[<img align="left" alt="chayagreisman | Medium" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@chayamgreisman) -->
 <!--[<img align="left" alt="chayagreisman | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZL13mtv8x-0IdOZ18J5T3w) -->
 
